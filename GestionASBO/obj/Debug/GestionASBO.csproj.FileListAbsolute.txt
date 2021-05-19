@@ -1,0 +1,24 @@
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASBO\bin\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASBO\bin\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASBO\obj\Debug\GestionASBO.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASBO\obj\Debug\GestionASBO.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASBO\obj\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASBO\obj\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASBO\bin\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASBO\bin\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.pdb
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASBO\bin\Debug\GestionASBO.dll
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASBO\bin\Debug\GestionASBO.pdb
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASBO\obj\Debug\GestionASBO.csprojAssemblyReference.cache
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASBO\obj\Debug\GestionASBO.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASBO\obj\Debug\GestionASBO.dll
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASBO\obj\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASBO\bin\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASBO\bin\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASBO\obj\Debug\GestionASBO.pdb

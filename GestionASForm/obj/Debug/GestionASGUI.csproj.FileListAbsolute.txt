@@ -1,0 +1,149 @@
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\Elisa\source\repos\GestionASForm\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASForm.GestionEleveForm.resources
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASForm.PageAccueil.resources
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\djili\OneDrive\Desktop\BTS2\C#\PROJECTMARIUSELISA\GestionAS-master\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.GestionEleveForm.resources
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.PageAccueil.resources
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\Forumu\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.GestionEleveForm.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.PageAccueil.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionAS.dll
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASDAL.dll
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionASDAL.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\bin\Debug\GestionAS.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.GestionEleveForm.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.ModificationEleve.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.PageAccueil.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASGUI.csproj.CopyComplete
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\GestionAS - Elisa,Marius,Fabien - Copie\GestionAS-main\GestionAS\GestionASForm\obj\Debug\GestionASForm.AjoutAdherent.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AjoutAdherent.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.GestionEleveForm.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.ModificationEleve.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.PageAccueil.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionAS.dll
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASDAL.dll
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASDAL.pdb
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionAS.pdb
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csproj.CopyComplete
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AjoutBudget.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.GestionBudgetForm.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionAS.dll
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionASBO.dll
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionASDAL.dll
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionASBO.pdb
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionASDAL.pdb
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\bin\Debug\GestionAS.pdb
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.AffichageFlux.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.AjoutAdherent.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.AjoutBudget.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.GestionBudgetForm.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.GestionEleveForm.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.ModificationEleve.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.PageAccueil.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASGUI.csproj.CopyComplete
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\mariu\Desktop\GestionAS\GestionAS-CSharp\GestionASForm\obj\Debug\GestionASForm.ModificationBudget.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AffichageFlux.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.ModificationBudget.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.ModificationFlux.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AjoutFlux.resources
+C:\Users\Elisa\Desktop\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.Statistiques.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASForm.exe.config
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionAS.dll
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASBO.dll
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASDAL.dll
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASBO.pdb
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionASDAL.pdb
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\bin\Debug\GestionAS.pdb
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csprojAssemblyReference.cache
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AffichageFlux.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AjoutAdherent.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AjoutBudget.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.AjoutFlux.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.GestionBudgetForm.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.GestionEleveForm.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.ModificationBudget.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.ModificationEleve.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.ModificationFlux.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.PageAccueil.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.PageAccueilForm.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.Properties.Resources.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.Statistiques.resources
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csproj.GenerateResource.cache
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csproj.CoreCompileInputs.cache
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASGUI.csproj.CopyComplete
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.exe
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.pdb
+C:\Users\Elisa\Desktop\PPE GestionAS\GestionAS-CSharp\GestionAS-CSharp-main\GestionASForm\obj\Debug\GestionASForm.DetailEleve.resources

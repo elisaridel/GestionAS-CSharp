@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="gestionASDataSet1" targetNamespace="http://tempuri.org/gestionASDataSet1.xsd" xmlns:mstns="http://tempuri.org/gestionASDataSet1.xsd" xmlns="http://tempuri.org/gestionASDataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="gestionAS" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="gestionAS (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.GestionASForm.Properties.Settings.GlobalReference.Default.gestionAS" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="fluxTableAdapter" GeneratorDataComponentClassName="fluxTableAdapter" Name="flux" UserDataComponentName="fluxTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="gestionAS (Settings)" DbObjectName="gestionAS.dbo.flux" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT id_budget FROM dbo.flux</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_budget" DataSetColumn="id_budget" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="gestionASDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="gestionASDataSet1" msprop:Generator_UserDSName="gestionASDataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="flux" msprop:Generator_TableClassName="fluxDataTable" msprop:Generator_TableVarName="tableflux" msprop:Generator_TablePropName="flux" msprop:Generator_RowDeletingName="fluxRowDeleting" msprop:Generator_RowChangingName="fluxRowChanging" msprop:Generator_RowEvHandlerName="fluxRowChangeEventHandler" msprop:Generator_RowDeletedName="fluxRowDeleted" msprop:Generator_UserTableName="flux" msprop:Generator_RowChangedName="fluxRowChanged" msprop:Generator_RowEvArgName="fluxRowChangeEvent" msprop:Generator_RowClassName="fluxRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_budget" msprop:Generator_ColumnVarNameInTable="columnid_budget" msprop:Generator_ColumnPropNameInRow="id_budget" msprop:Generator_ColumnPropNameInTable="id_budgetColumn" msprop:Generator_UserColumnName="id_budget" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
